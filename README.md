@@ -6,3 +6,5 @@ Responsive Website Loaders (HTML &amp; CSS)
 ![Loader 2](/loader2.png)
 # (3) Loader 3
 ![Loader 3](/loader3.png)
+# (4) Loader 4
+![Loader 4](/loader4.png)
